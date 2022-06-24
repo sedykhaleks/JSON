@@ -1,0 +1,17 @@
+  {
+  
+  "summary" : "Ошибка валидации поля Name при вводе минимального кол-ва валидных символов",
+  "stepsToReproduce" : [
+                         "step_1" : "Открыть сайт",
+                         "step_2" : "Ввести поле Name",
+                         "step_3" : "Ввести поле Password",
+                         "step_1" : "Нажать кнопку зарегистрироваться",
+                         ],
+  "Result" : "Заполните, пожалуйста, все поля!",
+  "Severity" : "Major",
+  "Priority" : "Medium",
+  "Status" : "Opened",
+  "Author" : "Sedykh Alex",
+  "Attachment" : "added file.jpg",
+  
+  }
