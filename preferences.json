@@ -1,0 +1,17 @@
+  {
+  
+  "myFavoriteMovie" : " 1+1 ",
+  "myFavoriteMusic" : "Michael Jackson",
+  "myFavoriteShow"  : "Stranger Things",
+  "myFavoriteFood"  : "Cezar Salad",
+  "myFavoriteCartoon"  : "Gravity Falls",
+  "myFavoriteCountry"  : "Portugal",
+  "myFavoriteBook" : [
+                      "Homo Sapiens",
+                      "Homo Deus",
+                      "21 Lessons for The 21th Century",
+                      ],
+  "myFavoritePlace" : "Park",
+  "myFavoriteSport": "Soccer",
+  
+  }
