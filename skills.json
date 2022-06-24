@@ -1,0 +1,31 @@
+{
+ "hard_skills" : [
+   
+       "Terminal", 
+       "Github", 
+       "Postman", 
+       "SQL", 
+       "Fidler", 
+       "Python", 
+       "JavaScript", 
+       "Jmeter", 
+       "DevTools",
+       "Снятие, чтение логов",
+       "Доступ к удалённым серверам",
+       "Мобильное тестирование",
+ ],
+ 
+ "soft_skills" : [
+       
+       "Solve Problem", 
+       "Discipline", 
+       "Communication", 
+       "Support"
+ ],
+ 
+ "theory" : [
+  
+        "Теория тестирования", 
+        "Методология разработки Scrum", 
+ ], 
+}
