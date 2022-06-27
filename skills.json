@@ -4,7 +4,8 @@
        "Terminal", 
        "Github", 
        "Postman", 
-       "SQL", 
+       "SQL",
+       "VPN",
        "Fidler", 
        "Python", 
        "JavaScript", 
@@ -12,7 +13,8 @@
        "DevTools",
        "Снятие, чтение логов",
        "Доступ к удалённым серверам",
-       "Мобильное тестирование",
+       "Bash scripting",
+       "Mobile testing",
  ],
  
  "soft_skills" : [
